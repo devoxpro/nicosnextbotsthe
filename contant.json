@@ -1,22 +1,23 @@
 [
   {
   
-        "UrlTitel": "about Play together",
-    "Urltexte": "Play together is a casual adventure game from Haegin Co., Ltd filled with minigames. Loading up the game, you get a bunch of character customization options. The overall look of the game is quite appealing and colorful. The game is full of different mini-games and if youâ€™re into those kinds of games, this game is a pretty good option. Here in this article, we will review Play Together and share our first impressions of the game.",
-	"button_title" : "Download",
+        "UrlTitel": "about Nico's Nextbots",
+    "Urltexte": "Nico's Nextbots is an experience on Roblox created by the group nico's stu, which is owned by 1nicopatty. It is based on Garry's Mod, specifically from 'NextBot Chase'. The gameplay currently has no clear objective other than to avoid getting killed by loud PNG monsters known as the 'Nextbots'",
+	  "button_title" : "",
 	"button_url" : "https://www.google.com"
       
   },
   {
-        "UrlTitel": "Explore the virtual world with your mate",
-    "Urltexte":"Starting off with the Play Together review, you spawn into the main plaza and immediately get thrown into completing tasks to earn money and get different items. Thereâ€™s a big city to explore and you play along with hundreds of players from across the world. As you progress through the game, you can unlock features like pets. Thereâ€™s never time to be bored in the game and you can attend school, go fishing, or complete quests. You can also get a job to earn some money. The entire game is about earning more and more to get a better lifestyle. The game has a bunch of minigames that you can earn from. You can even earn from going to school.",
-	"button_title" : "",
+        "UrlTitel": "Gameplay",
+    "Urltexte":"The experience takes place in an abandoned mall facility with many open spaces, corridors, parking garages, a disco club, and a back alley that connects some stores with the garages. There are two areas with a switch (interactable with the E key on PC, or pressing it on Mobile) that will close one",
+	  "button_title" : "",
 	"button_url" : ""
   },
   {
-    "UrlTitel": "running through obstacle courses",
-    "Urltexte": "Aside from that, you can take part in some activities just for fun like going on rides like hot air balloons and Ferris wheels and running through obstacle courses. You can even drive around after buying cars. If I were to list everything you could do in the game, it would get quite long but you just have to basically go around exploring. Daily tasks and rewards are also a part of the game while you can go out camping or have parties with your friends. The game does have a chat option but all the messages you send can be seen by everyone else in the game.",
-	"button_title" : "",
+    "UrlTitel": "The Nextbots chase the nearest player",
+    "Urltexte": "The Nextbots chase the nearest player, make loud noises, and cause static to appear on the screen when approaching players, making it easy to know if one is nearby. These indicators are changeable client-side in the game's settings. There are a variety of Nextbots such as: Obunga (based on former U.S. president Barack Obama), Quandale Dingle, Yoshie, Sanic, Aheno (full name Ahenobarbus Henocied), Entity 666 (known as “Juggler”), Dream Man (also called “The Man”), Speed (the streamer IShowSpeed), Patrick, Cootie, unknown (based on Mr Incredible Phase 22 by FreakyHell Studios), Sponge, Roblox, Claude (also called “Crab”) and Nerd. The Sanic Nextbot is able to move faster than the others, and all Nextbots are able to break doors down, even doors to the safe rooms even though they can't enter them.",
+	  
+	  "button_title" : "",
 	"button_url" : ""
  
   },
